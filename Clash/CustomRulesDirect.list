@@ -1,0 +1,20 @@
+# 自定义规则
+
+DOMAIN-SUFFIX,dayanhuihui.cf
+DOMAIN-SUFFIX,dayanhuihui.ga
+DOMAIN-SUFFIX,dayanhuihui.gq
+DOMAIN-SUFFIX,septe2n.cf
+DOMAIN-SUFFIX,septe2n.ga
+DOMAIN-SUFFIX,septe2n.gq
+#vercel.app大陆无法直连了--2022.08.27
+#DOMAIN-SUFFIX,vercel.app
+DOMAIN-KEYWORD,dandanzan
+DOMAIN-SUFFIX,btbdys.com
+#哔嘀影视
+DOMAIN-SUFFIX,bdys.me
+DOMAIN-SUFFIX,bdys01.com
+DOMAIN-SUFFIX,bde4.icu
+DOMAIN-SUFFIX,52bdys.com
+#dog健身管理
+DOMAIN-SUFFIX,tegouys.com
+
